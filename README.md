@@ -58,7 +58,7 @@ Breakdown of tasks / goals / deliverables for each week.
 Planning reference ==> https://ilearn.mq.edu.au/mod/url/view.php?id=7921631
 
 ## References:
-[1] https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs
-[2] https://github.com/steveruizok/perfect-freehand
-[3] https://github.com/tldraw/tldraw
+* [1] https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs
+* [2] https://github.com/steveruizok/perfect-freehand
+* [3] https://github.com/tldraw/tldraw
 
