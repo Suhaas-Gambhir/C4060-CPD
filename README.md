@@ -38,10 +38,10 @@ How will you measure / assess if you have met your desired learning outcomes in 
 - Have all the features listed at the initial phase been implented?
 - Does the API integrated actaully work?
 
-## what is your definition of done (for your project)
+## Definition of done (for your project)
 For my project, having a functional MVP of the drawing-notetaking application hosted on a non-local server would be considered done. Through this process I should be able to look back at the learning goals and objectives and evaluate my success. 
 
-## What is your 6-week timeline? 
+## 6-week Poject Timeline
 Breakdown of tasks / goals / deliverables for each week.
 - Week 1: Research phase focusing on framework selection, API documentation study, and basic implementation planning.
 - Week 2-4: Development sprints targeting the main features: Draw Canvas Apllication, API integration, and ....
@@ -52,6 +52,7 @@ Breakdown of tasks / goals / deliverables for each week.
 - Integration Complexity: Challenges in integrating Google Calendar API and input methods might extend beyond anticipated timelines. Regular progress checks and fallback strategies will be planned.
 - Learning Curve: The learning curve for a new framework and deployment practices could be steep. Setting aside additional time for tutorials and bug fixes will mitigate this.
 - Deployment Hurdles: Security, cost, and ease of use for deployment might not align perfectly with expectations, necessitating a reassessment of platform choices.
+- Reaccess and Adjust: There is always a possibility of not meeting the deadlines or the objectives defined at the initial stage of the project. Re-assessment of goals weekly to make sure the timeline is met is a top priority.
 
 
 Planning reference ==> https://ilearn.mq.edu.au/mod/url/view.php?id=7921631
