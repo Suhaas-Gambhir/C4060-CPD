@@ -44,7 +44,7 @@ For my project, having a functional MVP of the drawing-notetaking application ho
 ## 6-week Poject Timeline
 Breakdown of tasks / goals / deliverables for each week.
 - Week 1: Research phase focusing on framework selection, API documentation study, and basic implementation planning.
-- Week 2-4: Development sprints targeting the main features: Draw Canvas Apllication, API integration, and ....
+- Week 2-4: Development sprints targeting the main features: Draw Canvas Apllication, API integration, and Note-taking Interface.
 - Week 5: Deployment tasks – understanding deployment strategies, selecting a platform, and deploying the application.
 - Week 6: Comprehensive documentation, addressing and fixing any bugs, and evaluating the project against initial objectives and expected outcomes.
 
@@ -61,4 +61,3 @@ Planning reference ==> https://ilearn.mq.edu.au/mod/url/view.php?id=7921631
 * [1] https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs
 * [2] https://github.com/steveruizok/perfect-freehand
 * [3] https://github.com/tldraw/tldraw
-
