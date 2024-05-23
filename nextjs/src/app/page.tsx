@@ -1,17 +1,23 @@
 'use client';
-
-import Link from "next/link";
 import { Tldraw } from 'tldraw'
+
+// import Link from "next/link";
+
 import './index.css'
+
+/* Can't Get working */
+// import dynamic from 'next/dynamic';
+// const Tldraw = dynamic(async () => (await import('tldraw')).Tldraw, { ssr: false })
 
 export default function App() {
   return (
     <main>
-      <h1>HELLO WORD!</h1>  
-      <Link href="/users">Users</Link>
-      <div style={{ position: 'fixed', inset: 100 }}>
+      {/*
+      <Link href="/users">Users</Link> */}
+      <div style={{ position: 'fixed', inset: 0 }}>
    			<Tldraw />
  	  	</div>
     </main>
   );
 }
+
